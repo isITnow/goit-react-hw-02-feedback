@@ -1,4 +1,4 @@
-import s from "./FeedbackOptions.module.css"
+// import s from "./FeedbackOptions.module.css"
 
 function FeedbackOptions({options, onLeaveFeedback,}) {
     return (
